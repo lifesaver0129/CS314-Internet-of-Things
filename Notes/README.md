@@ -1,6 +1,6 @@
 # Instructions
 
-There's 2 parts of my notes.
+There're 2 parts of my notes.
 
 * Notes_exam.md is specifically for exam review
 
